@@ -6,7 +6,7 @@
 ###### Bye
 
 # Image
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Rabbit](https://www.charlotte.providencevets.com/files/providence-animal-hospital-charlotte-are-rabbits-rodents-blog.jpeg)
 
 # Code example 
 ```
